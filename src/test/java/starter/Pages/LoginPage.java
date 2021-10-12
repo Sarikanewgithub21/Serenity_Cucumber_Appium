@@ -14,7 +14,12 @@ public class LoginPage extends ScenarioSteps {
     public void openApplication() {
 
         login.loadApp();
+        System.out.println("Hai");
+        System.out.println("Changes done");
+        System.out.println("This is working fine");
+        System.out.println("Done");
+    }
     }
 
 
-}
+
