@@ -18,6 +18,7 @@ public class LoginPage extends ScenarioSteps {
         System.out.println("Changes done");
         System.out.println("This is working fine");
         System.out.println("Done");
+        System.out.println("Tested");
     }
     }
 
